@@ -6,3 +6,11 @@ Question : Given an array find the sum of length of sub arrays that are contiguo
 are less than or equal to a given integer K
 
 TestClass.java contains solution to this problem
+Example : 
+
+N = 5 , K =4
+
+A[] = {4,8,5,2,4}
+
+Output = 3
+as subarrays that will are contiguous and non overlapping are {4} --> length= 1 , {2,4} --> length =2
